@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RoomOfDestiny</string>
+    <string name="title_activity_server_checking_members">ServerCheckingMembers</string>
+    <string name="title_activity_choosing_model">ChoosingModel</string>
+    <string name="title_activity_server_model_list">ServerModelList</string>
+    <string name="title_activity_server_assigning">ServerAssigning</string>
+    <string name="title_activity_server_result">ServerResult</string>
+    <string name="title_activity_client1_choosing_room">Client1ChoosingRoom</string>
+    <string name="title_activity_client2_result">Client2Result</string>
+</resources>
